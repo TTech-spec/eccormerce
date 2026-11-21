@@ -1,3 +1,6 @@
 {
-  "rewrites": [{ "source": "/", "destination": "/runway/index.html" }]
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "."
 }
