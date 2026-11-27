@@ -15,9 +15,13 @@ A standalone "Try the Look" runway page for an e-commerce storefront. Shoppers b
 ## Project structure
 
 ```
+index.html        # Site root served on Vercel
 runway/
-└── index.html   # Page markup, styles, and scripts in one file
+└── index.html    # Runway page: markup, styles, and scripts in one file
+vercel.json       # Vercel config (plain static site from the repo root)
 ```
+
+Deployed on Vercel as a static site.
 
 ## Running locally
 
